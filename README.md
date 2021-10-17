@@ -1,2 +1,2 @@
 # arduino-tkinter
-Arduino control with Tkinter app
+Turn on and Turn off LEDs with Python app with Tkinter GUI
