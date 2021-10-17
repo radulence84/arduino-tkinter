@@ -1,4 +1,3 @@
-
 char userInput;
 
 #define LED 8
